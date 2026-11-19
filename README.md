@@ -1,4 +1,4 @@
-# Amazon Brazil E-Commerce Analysis — SQL Case Study (Milestone 2)
+# Amazon Brazil E-Commerce Analysis — SQL Case Study
 
 ## Project Overview
 
